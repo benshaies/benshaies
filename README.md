@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ben — aka StillBenja 👾
 
-<!--
-**benshaies/benshaies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo indie game developer building games in **C** with **Raylib**. I write everything from scratch — no engines, no shortcuts, just code and creativity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 About Me
+
+- 🕹️ Independent game developer focused on small, complete, polished games
+- ⚙️ I build with **C** and **Raylib** — low-level, fast, and fun
+- 📦 Published on [itch.io](https://stillbenja.itch.io) and right here on GitHub
+- 🔁 Always iterating — most of my repos have full release builds you can actually play
+
+---
+
+## 🛠️ Tech & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat&logo=raylib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🕹️ Games
+
+### [SlimeWood Hunter](https://github.com/benshaies/SlimeWood-Hunter)
+A Prairie King-inspired top-down arcade shooter. Fast-paced, wave-based, built from scratch in Raylib.
+
+### [SquareDash](https://github.com/benshaies/SquareDash)
+A Geometry Dash-style rhythm platformer written in C using Raylib. Obstacles, timing, and momentum.
+
+### [MotionZero](https://github.com/benshaies/MotionZero)
+A complete game with a release build available on GitHub. Built in C with Raylib.
+
+### [ProjectRecall](https://github.com/benshaies/ProjectRecall)
+A complete game with a release build available on GitHub. Built in C with Raylib.
+
+---
+
+## 📬 Find Me
+
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://stillbenja.itch.io)
+[![GitHub](https://img.shields.io/badge/GitHub-benshaies-181717?style=flat&logo=github&logoColor=white)](https://github.com/benshaies)
+
+---
+
+*All games have downloadable release builds — feel free to play them.*
