@@ -10,7 +10,7 @@ Solo indie game developer building games in **C** with **Raylib**.
 - ⚙️ I build with **C** and **Raylib** — low-level, fast, and fun
 - 📦 Published on [itch.io](https://stillbenja.itch.io) and right here on GitHub
 - 🔁 Always iterating — most of my repos have full release builds you can actually play
-- 🚀 Goal: ship a game on Steam one day
+- 🚀 Goal: Ship a game on Steam one day
 
 ---
 
@@ -26,17 +26,20 @@ Solo indie game developer building games in **C** with **Raylib**.
 
 ## 🕹️ Games
 
+### [ProjectRecall](https://github.com/benshaies/ProjectRecall)
+Current project still in developent - Playtest1 is available under releases on github.
+
+### [MotionZero](https://github.com/benshaies/MotionZero)
+A complete game released on [itch.io](https://stillbenja.itch.io/motion-zero). Built in C with Raylib.
+Available under releases on github alongside all playtest builds
+
 ### [SlimeWood Hunter](https://github.com/benshaies/SlimeWood-Hunter)
 A Prairie King-inspired top-down arcade shooter. Fast-paced, wave-based, built from scratch in Raylib.
 
 ### [SquareDash](https://github.com/benshaies/SquareDash)
 A Geometry Dash-style rhythm platformer written in C using Raylib. Obstacles, timing, and momentum.
 
-### [MotionZero](https://github.com/benshaies/MotionZero)
-A complete game with a release build available on GitHub and available for download on itch.io. Built in C with Raylib.
 
-### [ProjectRecall](https://github.com/benshaies/ProjectRecall)
-Current project still in developent - Playtest1 is available under releases on github.
 
 ---
 
