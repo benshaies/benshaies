@@ -1,4 +1,4 @@
-# Hi, I'm Ben — aka StillBenja 👾
+# Hi, I'm Ben — aka StillBenja 🔱
 
 Solo indie game developer building games in **C** with **Raylib**.
 
