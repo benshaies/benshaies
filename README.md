@@ -27,7 +27,7 @@ Solo indie game developer building games in **C** with **Raylib**.
 ## 🕹️ Games
 
 ### [ProjectRecall](https://github.com/benshaies/ProjectRecall)
-Current project still in development - Playtest1 is available under releases on github.
+Current project still in development - Playtest1 and Playtest2 is available under releases on github.
 
 ### [MotionZero](https://github.com/benshaies/MotionZero)
 A complete game released on [itch.io](https://stillbenja.itch.io/motion-zero). Built in C with Raylib.
