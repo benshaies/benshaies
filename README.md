@@ -39,6 +39,7 @@ A Prairie King-inspired top-down arcade shooter. Fast-paced, wave-based, built f
 ### [SquareDash](https://github.com/benshaies/SquareDash)
 A Geometry Dash-style rhythm platformer written in C using Raylib. Obstacles, timing, and momentum.
 
+### Early Projects
 You can also check out some of my early learning projects, few of them are web builds.
 [Early Projects](https://benshaies.github.io/RaylibProjects)
 
