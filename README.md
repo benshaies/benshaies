@@ -27,7 +27,8 @@ Solo indie game developer building games in **C** with **Raylib**.
 ## 🕹️ Games
 
 ### [Recall Grounds](https://github.com/benshaies/Recall-Grounds)
-Current project still in development - Playtest1 and Playtest2 is available under releases on github.
+Latest finished game. Avaiable for free on [itch.io](https://stillbenja.itch.io/recall-grounds).
+v1.0 download is also vailable under releases on the repository.
 
 ### [MotionZero](https://github.com/benshaies/MotionZero)
 A complete game released on [itch.io](https://stillbenja.itch.io/motion-zero). Built in C with Raylib.
