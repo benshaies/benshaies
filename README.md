@@ -50,7 +50,8 @@ Early learning projects, some are web builds. [Early Projects](https://benshaies
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ### Projects
-#### [HomeLab](https://github.com/benshaies/ronin-homelab) 
+#### [HomeLab - RONIN](https://github.com/benshaies/ronin-homelab) 
+Homelab repository documenting services, hardware, examples and explanations
 ---
 
 ## 📬 Find Me
@@ -58,7 +59,6 @@ Early learning projects, some are web builds. [Early Projects](https://benshaies
 [![GitHub](https://img.shields.io/badge/GitHub-benshaies-181717?style=flat&logo=github&logoColor=white)](https://github.com/benshaies)
 [![Discord](https://img.shields.io/badge/Discord-killswitch9756-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/killswitch9756)
 
----
-*All games have downloadable release builds — feel free to play them.*
+
 
 
