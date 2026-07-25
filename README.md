@@ -52,6 +52,7 @@ Early learning projects, some are web builds. [Early Projects](https://benshaies
 ### Projects
 #### [HomeLab - RONIN](https://github.com/benshaies/ronin-homelab) 
 Homelab repository documenting services, hardware, examples and explanations
+
 ---
 
 ## 📬 Find Me
