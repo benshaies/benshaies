@@ -50,8 +50,7 @@ Early learning projects, some are web builds. [Early Projects](https://benshaies
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ### Projects
-*Homelab and infrastructure repos coming soon.*
-
+#### [HomeLab](https://github.com/benshaies/ronin-homelab) 
 ---
 
 ## 📬 Find Me
