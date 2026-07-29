@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="GHkiS1rYtMD3VczX649f">
+    <mxGraphModel dx="1458" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-1" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontStyle=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="&lt;div&gt;Internet&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="190.48" x="343.57" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-2" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" target="ZOBA0sfR94geOEzs4Lxy-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="438.81" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-3" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;labelBackgroundColor=#e1d5e7;labelBorderColor=#9673a6;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=15;" value="&lt;span&gt;ISP Modem/Router&lt;/span&gt;&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="181.19" x="352.86" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-5" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;align=center;fontSize=15;" value="&lt;b&gt;Gigabit Ethernet&lt;/b&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="750" width="721.19" x="78.81" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;labelBorderColor=none;textShadow=0;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;HP Z420 Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ubuntu Server&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="308.81" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="610" width="670" x="108.46000000000001" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Color_Stroked-2139/Ubuntu-1145.png" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="580" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-11" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" value="" vertex="1">
+          <mxGeometry height="111" width="135.37" x="375.77" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="637.74" x="122.26" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SUBNET&lt;/div&gt;&lt;div&gt;192.168.40.x&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="84.23" x="568.81" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;STATIC IP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;192.168.40.169&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="180" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adguard Home" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOBA0sfR94geOEzs4Lxy-16" edge="1" parent="1" source="ZOBA0sfR94geOEzs4Lxy-12" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="ZOBA0sfR94geOEzs4Lxy-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="840" as="sourcePoint" />
+            <mxPoint x="500" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
