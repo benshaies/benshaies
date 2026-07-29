@@ -11,7 +11,6 @@ Developer and IT enthusiast. I build games in **C** with **Raylib** and run my o
 - 🚀 Long-term goals: ship a game on Steam, build a career in IT
 
 ---
-(Untitled Diagram.drawio)
 
 ## 🕹️ Game Dev
 
