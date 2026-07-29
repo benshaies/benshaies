@@ -12,6 +12,21 @@ Developer and IT enthusiast. I build games in **C** with **Raylib** and run my o
 
 ---
 
+## 🖥️ IT & Infrastructure
+
+### Tech & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+### Projects
+#### [HomeLab - RONIN](https://github.com/benshaies/ronin-homelab) 
+Homelab repository documenting services, hardware, examples and explanations
+
+---
+
 ## 🕹️ Game Dev
 
 ### Tech & Tools
@@ -37,21 +52,6 @@ A Geometry Dash-style rhythm platformer. Obstacles, timing, and momentum.
 
 #### Early Projects
 Early learning projects, some are web builds. [Early Projects](https://benshaies.github.io/RaylibProjects)
-
----
-
-## 🖥️ IT & Infrastructure
-
-### Tech & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-
-### Projects
-#### [HomeLab - RONIN](https://github.com/benshaies/ronin-homelab) 
-Homelab repository documenting services, hardware, examples and explanations
 
 ---
 
