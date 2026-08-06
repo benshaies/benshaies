@@ -1,4 +1,4 @@
-# Hi, I'm Ben — aka StillBenja 🔱
+# Hi, I'm Ben — aka StillBenja 
 Developer and IT enthusiast. I build games in **C** with **Raylib** and run my own self-hosted infrastructure.
 
 ---
